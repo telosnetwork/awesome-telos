@@ -1,5 +1,6 @@
 # Awesome-telos🟣⛓
 
+![Telos Logo](/img/acorn_icon%20(2).png)
 
 </div>
 <br/>
