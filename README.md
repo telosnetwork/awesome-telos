@@ -1,4 +1,6 @@
+<div align="center">
 # Awesome-telos🟣⛓
+</div>
 
 <br/>
 <div align="center">
@@ -14,6 +16,8 @@ Telos is a next-generation Delegated Proof of Stake (DPOS) Layer-1 blockchain ne
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 <br/>
+
+Pull requests are welcome! In the spirit of decentralized applications however, please ensure your submission is not a paywalled product. 
 
 
 
@@ -36,7 +40,16 @@ Telos is a next-generation Delegated Proof of Stake (DPOS) Layer-1 blockchain ne
 * [Telos System Contracts](https://github.com/telosnetwork/telos.contracts)
 
 ## Node infrastructure
+* [Leap](https://github.com/AntelopeIO/leap)
+* 
 
+## Block Explorers
+#### tEVM
+* [Teloscan](https://www.teloscan.io/)
+#### Native 
+* [Telos Open Block Explorer](https://explorer.telos.net/)
+* [AJOR](https://ajor.io/)
+* [EOS Authority](https://eosauthority.com/)
 
 ## Testnet Faucet
 * [Faucet](https://app.telos.net/testnet/developers)
@@ -53,8 +66,13 @@ Telos is a next-generation Delegated Proof of Stake (DPOS) Layer-1 blockchain ne
 * [DIA](https://docs.diadata.org/introduction/readme)
 
 ## Wallets
-* [MetaMask]
-* [Math
+#### tEVM 
+* [MetaMask](https://metamask.io/download/)
+* [Math](https://mathwallet.org/en-us/)
+
+#### Native
+* [Anchor](https://greymass.com/en/anchor/)
+
 
 ## Bridges
 * [Symbiosis Finance](https://symbiosis.finance/)
