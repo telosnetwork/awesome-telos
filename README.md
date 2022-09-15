@@ -2,7 +2,7 @@
 
 <br/>
 <div align="center">
-    <img width="250px" src="./img/acorn_icon.png">
+    <img width="250px" src="/img/acorn_icon.png">
 </div>
 <br/>
 <div align="center">
