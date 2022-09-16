@@ -26,6 +26,10 @@ Pull requests are welcome! In the spirit of decentralized applications however, 
 * [Learn about Telos](https://www.telos.net/)
 * [Telos Demo Dapp](https://demo.telos.finance/swap)
 * [Launch Existing Dapp on Telos](https://docs.telos.net/dapps/launch-dapp-on-tEVM)
+* [Telos Dapp Scafolding](https://github.com/telosnetwork/evm-ui-template)
+* [Telos Hardhat environment & ERC20 Starter](https://github.com/telosnetwork/erc20-template)
+* [Solidity Docs](https://docs.soliditylang.org/en/v0.8.17/)
+
 
 
 ## Development Tools EVM
@@ -33,6 +37,7 @@ Pull requests are welcome! In the spirit of decentralized applications however, 
 * [Truffle](https://github.com/trufflesuite/truffle)
 * [Hardhat](https://hardhat.org/)
 * [Open Zeppelin Contracts](https://www.openzeppelin.com/)
+* [Brownie](https://eth-brownie.readthedocs.io/en/stable/)
 
 
 ## Development Tools Antelope
@@ -41,7 +46,6 @@ Pull requests are welcome! In the spirit of decentralized applications however, 
 
 ## Node infrastructure
 * [Leap](https://github.com/AntelopeIO/leap)
-* 
 
 ## Block Explorers
 #### tEVM
