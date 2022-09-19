@@ -91,4 +91,10 @@ Pull requests are welcome! In the spirit of decentralized applications however, 
 ## Governance/Voting Tools 
 * [Telos Decide Voter](https://app.telos.net/)
 
+## Extra Resources 📖
+* [Solidity by Example](https://solidity-by-example.org/)
+* [Buildspace](https://buildspace.so/)
+* [Mastering Ethereum PDF](https://github.com/ethereumbook/ethereumbook]
+* [Hashlips NFT guides](https://github.com/HashLips)
+
 
