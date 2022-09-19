@@ -62,7 +62,7 @@ Pull requests are welcome! In the spirit of decentralized applications however, 
 ## NFT Marketplaces
 * [Minted Vodka](https://minted.vodka/)
 * [Area X](https://areaxnft.com/)
-* [Byt]((https://www.byt.io/))
+* [Byt](https://www.byt.io/)
 * [TOFUNFT](https://tofunft.com/telos)
 
 
@@ -73,6 +73,7 @@ Pull requests are welcome! In the spirit of decentralized applications however, 
 #### tEVM 
 * [MetaMask](https://metamask.io/download/)
 * [Math](https://mathwallet.org/en-us/)
+* [Telos Webwallet)[
 
 #### Native
 * [Anchor](https://greymass.com/en/anchor/)
@@ -94,7 +95,7 @@ Pull requests are welcome! In the spirit of decentralized applications however, 
 ## Extra Resources 📖
 * [Solidity by Example](https://solidity-by-example.org/)
 * [Buildspace](https://buildspace.so/)
-* [Mastering Ethereum PDF](https://github.com/ethereumbook/ethereumbook]
+* [Mastering Ethereum PDF](https://github.com/ethereumbook/ethereumbook)
 * [Hashlips NFT guides](https://github.com/HashLips)
 
 
