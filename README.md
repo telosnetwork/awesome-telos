@@ -73,7 +73,7 @@ Pull requests are welcome! In the spirit of decentralized applications however, 
 #### tEVM 
 * [MetaMask](https://metamask.io/download/)
 * [Math](https://mathwallet.org/en-us/)
-* [Telos Webwallet)[
+* [Telos Webwallet](https://wallet.telos.net/)
 
 #### Native
 * [Anchor](https://greymass.com/en/anchor/)
@@ -82,6 +82,7 @@ Pull requests are welcome! In the spirit of decentralized applications however, 
 ## Bridges
 * [Symbiosis Finance](https://symbiosis.finance/)
 * [Rubic](https://rubic.exchange/)
+* [Ptoken Bridge](https://dapp.ptokens.io/swap?asset=tlos&from=telos&to=eth)
 
 ## DEXES
 * [Rocketx Exchange](https://rocketx.exchange/swap/)
@@ -98,4 +99,8 @@ Pull requests are welcome! In the spirit of decentralized applications however, 
 * [Mastering Ethereum PDF](https://github.com/ethereumbook/ethereumbook)
 * [Hashlips NFT guides](https://github.com/HashLips)
 
-
+## Endpoints 
+* [Endpoint monitor for all Endpoints](https://monitor.telos.net/#/)
+* [mainnet.telos.net(Swagger)](http://mainnet.telos.net/v2/docs/index.html)
+* [testnet.telos.net(Swagger)](http://testnet.telos.net/v2/docs/static/index.html)
+* 
